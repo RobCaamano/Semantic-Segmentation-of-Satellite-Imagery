@@ -9,4 +9,6 @@ Project Members: Roberto Caamano & Aaron Alemi
 3. Start NNI on port > 1024 (5002 in our case)
 4. Check public url & access UI
 
+[Colab Notebook Link](https://colab.research.google.com/drive/1rNZ2mlaWNSgIShDI-bHFp31g92y252CH?usp=sharing)
+
 ![NNI UI](https://user-images.githubusercontent.com/65639885/198905408-a9d7f1b3-61d5-4c8a-a2bf-f0c3df86dd2d.JPG)
